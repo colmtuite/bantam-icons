@@ -1,0 +1,16 @@
+<svg width="24px" height="24px" viewBox="0 0 24 24">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#27313C">
+            <g transform="translate(3.000000, 2.000000)">
+                <rect id="Ribbon" x="14" y="0" width="1" height="20" rx="0.5"></rect>
+                <rect id="Rectangle-383" x="0" y="2" width="4" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-383" x="0" y="5" width="4" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-383" x="0" y="8" width="4" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-383" x="0" y="11" width="4" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-383" x="0" y="14" width="4" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-383" x="0" y="17" width="4" height="1" rx="0.5"></rect>
+                <path d="M2,1.99079514 C2,0.891309342 2.89451376,0 3.99406028,0 L16.0059397,0 C17.1072288,0 18,0.898212381 18,1.99079514 L18,18.0092049 C18,19.1086907 17.1054862,20 16.0059397,20 L3.99406028,20 C2.8927712,20 2,19.1017876 2,18.0092049 L2,1.99079514 Z M3,1.99339768 C3,1.44475929 3.44994876,1 4.00684547,1 L15.9931545,1 C16.5492199,1 17,1.44494629 17,1.99339768 L17,18.0066023 C17,18.5552407 16.5500512,19 15.9931545,19 L4.00684547,19 C3.45078007,19 3,18.5550537 3,18.0066023 L3,1.99339768 Z" id="Frame"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="24px" height="24px" viewBox="0 0 24 24">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#27313C">
+            <g transform="translate(2.000000, 4.000000)">
+                <rect id="Rectangle-426" x="0" y="0" width="1" height="5" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="0" y="0" width="5" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="19" y="0" width="1" height="5" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="15" y="0" width="5" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="0" y="11" width="1" height="5" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="0" y="15" width="5" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="19" y="11" width="1" height="5" rx="0.5"></rect>
+                <rect id="Rectangle-426" x="15" y="15" width="5" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
