@@ -1,0 +1,21 @@
+{
+  "name": "bantam-icons",
+  "version": "0.0.1",
+  "description": "Simple, pixel snapped, SVG icons.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colmtuite/bantam-icons.git"
+  },
+  "keywords": [
+    "icon",
+    "simple",
+    "line",
+    "svg",
+    "webfont"
+  ],
+  "author": "Colm Tuite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colmtuite/bantam-icons/issues"
+  }
+}

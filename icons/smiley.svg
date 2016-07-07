@@ -1,0 +1,12 @@
+<svg width="24px" height="24px" viewBox="0 0 24 24">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#160F0F">
+            <g transform="translate(2.000000, 2.000000)">
+                <path d="M10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 Z M10,19 C14.9705627,19 19,14.9705627 19,10 C19,5.02943725 14.9705627,1 10,1 C5.02943725,1 1,5.02943725 1,10 C1,14.9705627 5.02943725,19 10,19 Z" id="Face"></path>
+                <circle id="Left-eye" cx="7" cy="7" r="1"></circle>
+                <circle id="Right-eye" cx="13" cy="7" r="1"></circle>
+                <rect id="Mouth" x="6" y="13" width="8" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
